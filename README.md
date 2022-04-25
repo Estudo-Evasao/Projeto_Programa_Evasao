@@ -12,8 +12,8 @@ Atenção: o programa ainda está em desenvolvimento e pode apresentar erros cau
 Linguagem de programação: Python.
 Bibliotecas utilizadas:
 * xlrd -> biblioteca com o objetivo de ler dados de uma planilha em Excel.
-* matplotlib -> biblioteca com o objetivo de criar gráficos a partir de dados. Ele é utilizada normalmente em Ciência de Dados
+* matplotlib -> biblioteca com o objetivo de criar gráficos a partir de dados. Ela é utilizada normalmente em Ciência de Dados.
 
 ## Arquivos do projeto
 1.  Pasta contendo Fluxogramas: Antes do desenvolvimento do código  um fluxograma foi criado para auxiliar no planjemento do programa.
-2.  Arquivo Python contendo o programa
+2.  Arquivo Python contendo o programa.

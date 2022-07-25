@@ -16,7 +16,7 @@ Bibliotecas utilizadas:
 * matplotlib -> biblioteca com o objetivo de criar gráficos a partir de dados.
 
 IDE utilizada:
-Google Colab, o projeto foi inicialmente criado neste ambiente, pois ele possui características que favorece o desenvolvimento de código em Ciência de Dados, como por exemplo já exibir os gráficos gerados pela biblioteca matplotlib ao invés de ter que procurar o arquivo criado por ela e abrir numa IDE comum. Além das características citadas, ele utiliza uma máquina virtual que já contém as bibliotecas do Python, logo não é necessário baixá-las nesse ambiente.
+Google Colab, o projeto foi inicialmente criado neste ambiente, pois ele utiliza uma máquina virtual que já contém a maioria das bibliotecas Python usadas em Ciência dos Dados, logo não é necessário baixá-las nesse ambiente.
 
 ## Arquivos do projeto
 1.  Pasta contendo Fluxogramas: Antes do desenvolvimento do código, fluxogramas foram criados para auxiliar no planejemento do programa.
